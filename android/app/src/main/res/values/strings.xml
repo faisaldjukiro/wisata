@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BG</string>
+    <string name="lokasi">Buka Link <a href="https://www.google.com/maps/place/0.5611163097563592,123.028839843576"></a> Contoh</string>
+</resources>
